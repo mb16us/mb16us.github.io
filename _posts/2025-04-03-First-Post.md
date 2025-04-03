@@ -1,3 +1,9 @@
+---
+layout: post
+title: "First Post"
+---
+
+
 # First Post
  Our web page on GItHub.  This is the first post.
  
