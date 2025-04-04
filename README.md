@@ -3,6 +3,8 @@
 ## home page for mb16.us
 [original site](https://www.mb16.us/)
 
+![Michelle and Bryce](https://photos.app.goo.gl/yiyf9Mra3Lei3PvR7)
+
 <ul>
   {% for post in site.posts %}
     <li>
